@@ -40,7 +40,7 @@ Because in a world where data is the new gold, you need to be the ultimate digit
 
 ## 🚦 Getting Started
 
-1. Clone this repo: `git clone https://github.com/yourusername/cryptography101.git`
+1. Clone this repo: `git clone https://github.com/crypt0-wizard/cryptography101.git`
 2. Navigate to your favorite topic
 3. Start cracking... we mean, learning! 😉
 
