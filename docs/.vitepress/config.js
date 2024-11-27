@@ -10,7 +10,7 @@ export default {
     nav: [
       { text: "Home", link: "/" },
       { text: "Guide", link: "/guide" },
-      { text: "CTF Challenges", link: "/challenges" },
+      //{ text: "CTF Challenges", link: "/challenges" },
     ],
     sidebar: {
       "/": [
