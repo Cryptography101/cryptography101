@@ -34,8 +34,7 @@ Understanding cryptography gives you the edge to think sharper, act faster, and 
 ## Where to Start
 
 - **[Getting Started](./guide)**: Begin your journey into cryptography fundamentals.
-- **[CTF Walkthroughs](./challenges)**: Explore cryptographic challenges from beginner to advanced.
-- **[Tools](./tools)**: Equip yourself with the best tools for the job.
+
 
 ---
 
