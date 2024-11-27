@@ -52,7 +52,6 @@ This site is your map through the maze of encryption, where every cipher cracked
 ## Get Involved
 
 Cryptography is best learned with a community.
-- **[Join Our Discord](https://discord.gg/your-invite-link)**: Connect with fellow learners and experts.
 - **[Contribute on GitHub](https://github.com/crypt0-wizard/cryptography101.git)**: Share insights, report issues, or improve content.
 
 ---
