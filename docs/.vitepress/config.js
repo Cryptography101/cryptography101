@@ -19,6 +19,6 @@ export default {
         { text: "CTF Challenges", link: "/challenges" },
       ],
     },
-    socialLinks: [{ icon: "github", link: "https://github.com/your-repo" }],
+    socialLinks: [{ icon: "github", link: "https://github.com/cryptography101.git" }],
   },
 };
