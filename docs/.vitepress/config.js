@@ -10,6 +10,7 @@ export default {
       { text: "Home", link: "/" },
       { text: "Guide", link: "/guide" },
       { text: "Mathematics", link: "/mathematics" },
+      { text: "Programming", link: "/programming" }
     ],
     
     sidebar: {
@@ -19,7 +20,7 @@ export default {
         { text: "CTF Challenges", link: "/challenges" },
         {
           text: "Mathematics",
-          collapsed: true,
+          collapsed: false,
           items: [
             { text: "Introduction to Math", link: "/mathematics" },
             { text: "Number Theory", link: "/mathematics/number-theory" },
@@ -30,6 +31,19 @@ export default {
             { text: "Elliptic Curves", link: "/mathematics/elliptic-curves" },
             { text: "Lattices", link: "/mathematics/lattices" },
             { text: "Practice Problems", link: "/mathematics/practice" }
+          ]
+        },
+        {
+          text: "Programming Languages",
+          collapsed: false,
+          items: [
+            { text: "Introduction", link: "/programming" },
+            { text: "Python for Cryptography", link: "/programming/python" },
+            { text: "JavaScript Crypto", link: "/programming/javascript" },
+            { text: "Go Cryptography", link: "/programming/go" },
+            { text: "Rust Cryptography", link: "/programming/rust" },
+            { text: "C/C++ Cryptography", link: "/programming/cpp" },
+            { text: "Libraries & Tools", link: "/programming/tools" }
           ]
         }
       ],
