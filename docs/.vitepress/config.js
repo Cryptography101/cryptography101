@@ -39,6 +39,7 @@ export default {
           items: [
             { text: "Introduction", link: "/programming" },
             { text: "Python for Cryptography", link: "/programming/python" },
+            { text: "Ruby for Cryptography", link: "/programming/ruby" },
             { text: "JavaScript Crypto", link: "/programming/javascript" },
             { text: "Go Cryptography", link: "/programming/go" },
             { text: "Rust Cryptography", link: "/programming/rust" },
