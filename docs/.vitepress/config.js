@@ -18,6 +18,7 @@ export default {
         { text: "Introduction", link: "/" },
         { text: "Getting Started", link: "/guide" },
         { text: "CTF Challenges", link: "/challenges" },
+        { text: "Tools of Trade", link: "/tools" },
         {
           text: "Mathematics",
           collapsed: "True",
