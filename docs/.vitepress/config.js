@@ -17,6 +17,7 @@ export default {
         { text: "Introduction", link: "/" },
         { text: "Getting Started", link: "/guide" },
         { text: "CTF Challenges", link: "/challenges" },
+        {text:"Mathematics",link:"/mathematics"}
       ],
     },
     socialLinks: [{ icon: "github", link: "https://github.com/crypt0-wizard/cryptography101.git" }],
