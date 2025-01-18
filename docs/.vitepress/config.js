@@ -20,7 +20,7 @@ export default {
         { text: "CTF Challenges", link: "/challenges" },
         {
           text: "Mathematics",
-          collapsed: false,
+          collapsed: True,
           items: [
             { text: "Introduction to Math", link: "/mathematics" },
             { text: "Number Theory", link: "/mathematics/number-theory" },
@@ -35,7 +35,7 @@ export default {
         },
         {
           text: "Programming Languages",
-          collapsed: false,
+          collapsed: True,
           items: [
             { text: "Introduction", link: "/programming" },
             { text: "Python for Cryptography", link: "/programming/python" },
