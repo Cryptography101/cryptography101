@@ -20,21 +20,6 @@ export default {
         //{ text: "Tools of Trade", link: "/tools" },
         //{ text: "Hardware Cryptography", link: "/hardware-crypto" },
         {
-          text: "Mathematics",
-          collapsed: "True",
-          items: [
-            { text: "Introduction to Math", link: "/mathematics" },
-            { text: "Number Theory", link: "/mathematics/number-theory" },
-            { text: "Modular Arithmetic", link: "/mathematics/modular-arithmetic" },
-            { text: "Prime Numbers", link: "/mathematics/prime-numbers" },
-            { text: "GCD and LCM", link: "/mathematics/gcd-lcm" },
-            { text: "Groups and Fields", link: "/mathematics/groups-fields" },
-            { text: "Elliptic Curves", link: "/mathematics/elliptic-curves" },
-            { text: "Lattices", link: "/mathematics/lattices" },
-            { text: "Practice Problems", link: "/mathematics/practice" }
-          ]
-        },
-        {
           text: "History of Cryptography",
           collapsed: true,
           items: [
@@ -49,6 +34,22 @@ export default {
           ]
         },
         {
+          text: "Mathematics",
+          collapsed: "True",
+          items: [
+            { text: "Introduction to Math", link: "/mathematics" },
+            { text: "Number Theory", link: "/mathematics/number-theory" },
+            { text: "Modular Arithmetic", link: "/mathematics/modular-arithmetic" },
+            { text: "Prime Numbers", link: "/mathematics/prime-numbers" },
+            { text: "GCD and LCM", link: "/mathematics/gcd-lcm" },
+            { text: "Groups and Fields", link: "/mathematics/groups-fields" },
+            { text: "Elliptic Curves", link: "/mathematics/elliptic-curves" },
+            { text: "Lattices", link: "/mathematics/lattices" },
+            { text: "Practice Problems", link: "/mathematics/practice" }
+          ]
+        },
+        
+        {
           text: "Programming Languages",
           collapsed: "True",
           items: [
@@ -60,6 +61,21 @@ export default {
             { text: "Rust Cryptography", link: "/programming/rust" },
             { text: "C/C++ Cryptography", link: "/programming/cpp" },
             { text: "Libraries & Tools", link: "/programming/tools" }
+          ]
+        },
+        {
+          text: "Asymmetric Cryptography",
+          collapsed: "True",
+          items: [
+            { text: "Introduction to Asymmetric Cryptography", link: "/asymmetric/introduction" },
+            { text: "RSA Cryptosystem", link: "/asymmetric/rsa" },
+            { text: "Digital Signatures", link: "/asymmetric/digital-signatures" },
+            { text: "Diffie-Hellman Key Exchange", link: "/asymmetric/diffie-hellman" },
+            { text: "ElGamal Encryption", link: "/asymmetric/elgamal" },
+            { text: "Elliptic Curve Cryptography", link: "/asymmetric/ecc" },
+            { text: "Post-Quantum Cryptography", link: "/asymmetric/post-quantum" },
+            { text: "Common Attacks", link: "/asymmetric/attacks" },
+            { text: "Best Practices", link: "/asymmetric/best-practices" }
           ]
         }
 
