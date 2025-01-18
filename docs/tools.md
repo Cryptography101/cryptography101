@@ -1,15 +1,5 @@
 # 🛠️ Cryptographic Tools and Software
 
-## 🎯 Quick Navigation
-- [Analysis Tools](#analysis-tools)
-- [Network Security](#network-security)
-- [Code Breaking](#code-breaking)
-- [Encryption Tools](#encryption-tools)
-- [Forensics](#forensics)
-- [CTF Specific](#ctf-specific)
-- [Development Tools](#development-tools)
-- [Mobile Security](#mobile-security)
-
 ## 🔍 Analysis Tools
 
 ### CyberChef - The Cyber Swiss Army Knife
