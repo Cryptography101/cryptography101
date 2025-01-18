@@ -19,7 +19,7 @@ export default {
         { text: "CTF Challenges", link: "/challenges" },
         {
           text: "Mathematics",
-          collapsed: false,
+          collapsed: true,
           items: [
             { text: "Introduction to Math", link: "/mathematics" },
             { text: "Number Theory", link: "/mathematics/number-theory" },
