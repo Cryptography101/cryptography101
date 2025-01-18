@@ -19,6 +19,7 @@ export default {
         { text: "Getting Started", link: "/guide" },
         { text: "CTF Challenges", link: "/challenges" },
         { text: "Tools of Trade", link: "/tools" },
+        { text: "Hardware Cryptography", link: "/hardware-crypto" },
         {
           text: "Mathematics",
           collapsed: "True",
