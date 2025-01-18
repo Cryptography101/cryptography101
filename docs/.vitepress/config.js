@@ -35,6 +35,20 @@ export default {
           ]
         },
         {
+          text: "History of Cryptography",
+          collapsed: true,
+          items: [
+            {text:"History",link:"/history"},
+            { text: "Ancient Cryptography", link: "/history/ancient" },
+            { text: "Classical Period", link: "/history/classical" },
+            { text: "Medieval Cryptography", link: "/history/medieval" },
+            { text: "Renaissance Era", link: "/history/renaissance" },
+            { text: "World Wars", link: "/history/world-wars" },
+            { text: "Modern Era", link: "/history/modern" },
+            { text: "Contemporary Cryptography", link: "/history/contemporary" }
+          ]
+        },
+        {
           text: "Programming Languages",
           collapsed: "True",
           items: [
@@ -48,6 +62,8 @@ export default {
             { text: "Libraries & Tools", link: "/programming/tools" }
           ]
         }
+
+
       ],
     },
     
