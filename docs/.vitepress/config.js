@@ -85,7 +85,7 @@ export default {
     
     socialLinks: [
       { icon: "github", link: "https://github.com/crypt0-wizard/cryptography101.git" },
-      { icon: "discord", link: "https://discord.gg/d4pWBJfxRc" }
+      { icon: "discord", link: "https://discord.gg/your-discord-invite-link" }
     ],
 
     lastUpdated: true,
