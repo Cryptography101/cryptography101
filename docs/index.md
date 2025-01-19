@@ -95,7 +95,7 @@ Let's unlock the secrets of secure communication together. Choose your path:
 - Start with [History of Cryptography](/history/intro)
 - Jump into [Mathematics Fundamentals](/mathematics/intro)
 - Explore [Practical Applications](/programming/intro)
-- Challenge yourself with [Practice Problems](/mathematics/practice)
+- Challenge yourself with [Practice Problems](/mathematics/intro)
 
 *"Cryptography is the essential building block of independence for organizations on the Internet, just like armies are the essential building blocks of states."* - Julian Assange
 
