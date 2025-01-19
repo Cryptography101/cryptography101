@@ -89,10 +89,6 @@ export default {
     ],
 
     lastUpdated: true,
-    footer: {
-      message: "Released under the MIT License.",
-      copyright: "© 2025 Cryptography101. Built with VitePress."
-    },
     
   },
 };
