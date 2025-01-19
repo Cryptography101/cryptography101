@@ -11,6 +11,7 @@ export default {
       //{ text: "Guide", link: "/guide" },
       { text: "Tools of Trade", link: "/tools" },
       //{ text: "Programming", link: "/programming" }
+      {text:"Books",link:"/books"}
     ],
     
     sidebar: {
