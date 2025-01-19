@@ -23,7 +23,7 @@ export default {
           text: "History of Cryptography",
           collapsed: true,
           items: [
-            {text:"History",link:"/history"},
+            {text:"History",link:"/history/intro"},
             { text: "Ancient Cryptography", link: "/history/ancient" },
             { text: "Classical Period", link: "/history/classical" },
             { text: "Medieval Cryptography", link: "/history/medieval" },
@@ -37,7 +37,7 @@ export default {
           text: "Mathematics",
           collapsed: "True",
           items: [
-            { text: "Introduction to Math", link: "/mathematics" },
+            { text: "Introduction to Math", link: "/mathematics/intro" },
             { text: "Number Theory", link: "/mathematics/number-theory" },
             { text: "Modular Arithmetic", link: "/mathematics/modular-arithmetic" },
             { text: "Prime Numbers", link: "/mathematics/prime-numbers" },
@@ -53,7 +53,7 @@ export default {
           text: "Programming Languages",
           collapsed: "True",
           items: [
-            { text: "Introduction", link: "/programming" },
+            { text: "Introduction", link: "/programming/intro" },
             { text: "Python for Cryptography", link: "/programming/python" },
             { text: "Ruby for Cryptography", link: "/programming/ruby" },
             { text: "JavaScript Crypto", link: "/programming/javascript" },
