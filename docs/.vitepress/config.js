@@ -8,9 +8,9 @@ export default {
    
     nav: [
       { text: "Home", link: "/" },
-      { text: "Guide", link: "/guide" },
+      //{ text: "Guide", link: "/guide" },
       { text: "Tools of Trade", link: "/tools" },
-      { text: "Programming", link: "/programming" }
+      //{ text: "Programming", link: "/programming" }
     ],
     
     sidebar: {
