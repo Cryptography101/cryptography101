@@ -60,7 +60,7 @@ export default {
             { text: "Go Cryptography", link: "/programming/go" },
             { text: "Rust Cryptography", link: "/programming/rust" },
             { text: "C/C++ Cryptography", link: "/programming/cpp" },
-            { text: "Libraries & Tools", link: "/programming/tools" }
+            //{ text: "Libraries & Tools", link: "/programming/tools" }
           ]
         },
         {
