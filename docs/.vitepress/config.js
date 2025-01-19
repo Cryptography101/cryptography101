@@ -54,8 +54,8 @@ export default {
           collapsed: "True",
           items: [
             { text: "Introduction", link: "/programming/intro" },
-            { text: "Python for Cryptography", link: "/programming/python" },
-            { text: "Ruby for Cryptography", link: "/programming/ruby" },
+            { text: "Python Cryptography", link: "/programming/python" },
+            { text: "Ruby Cryptography", link: "/programming/ruby" },
             { text: "JavaScript Crypto", link: "/programming/javascript" },
             { text: "Go Cryptography", link: "/programming/go" },
             { text: "Rust Cryptography", link: "/programming/rust" },
