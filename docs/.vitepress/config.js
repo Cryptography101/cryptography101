@@ -87,5 +87,12 @@ export default {
       { icon: "github", link: "https://github.com/crypt0-wizard/cryptography101.git" },
       { icon: "discord", link: "https://discord.gg/your-discord-invite-link" }
     ],
+
+    lastUpdated: true,
+    footer: {
+      message: "Released under the MIT License.",
+      copyright: "© 2025 Cryptography101. Built with VitePress."
+    },
+    
   },
 };
