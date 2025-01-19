@@ -9,7 +9,7 @@ export default {
     nav: [
       { text: "Home", link: "/" },
       { text: "Guide", link: "/guide" },
-      { text: "Mathematics", link: "/mathematics" },
+      { text: "Tools of Trade", link: "/tools" },
       { text: "Programming", link: "/programming" }
     ],
     
