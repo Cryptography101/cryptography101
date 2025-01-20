@@ -18,14 +18,14 @@ export default {
     
     // Open Graph / Facebook
     ['meta', { property: 'og:type', content: 'website' }],
-    ['meta', { property: 'og:url', content: 'https://your-domain.com/' }],
+    ['meta', { property: 'og:url', content: 'https://cryptography101.org/' }],
     ['meta', { property: 'og:title', content: 'Cryptography101 - Complete Guide to Cryptography' }],
     ['meta', { property: 'og:description', content: 'Comprehensive guide to cryptography covering basic concepts, advanced topics, CTF challenges, and practical implementations.' }],
-    ['meta', { property: 'og:image', content: 'https://your-domain.com/og-image.png' }],
+    ['meta', { property: 'og:image', content: 'https://cryptography101.org/og-image.png' }],
     
     // Twitter
     ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
-    ['meta', { name: 'twitter:url', content: 'https://your-domain.com/' }],
+    ['meta', { name: 'twitter:url', content: 'https://cryptography101.org/' }],
     ['meta', { name: 'twitter:title', content: 'Cryptography101 - Complete Guide to Cryptography' }],
     ['meta', { name: 'twitter:description', content: 'Comprehensive guide to cryptography covering basic concepts, advanced topics, CTF challenges, and practical implementations.' }],
     ['meta', { name: 'twitter:image', content: 'https://your-domain.com/twitter-image.png' }],
@@ -34,7 +34,7 @@ export default {
     ['meta', { name: 'viewport', content: 'width=device-width, initial-scale=1.0' }],
     ['meta', { name: 'theme-color', content: '#3eaf7c' }],
     ['meta', { name: 'robots', content: 'index, follow' }],
-    ['link', { rel: 'canonical', href: 'https://your-domain.com/' }],
+    ['link', { rel: 'canonical', href: 'https://cryptography101.org' }],
   ],
 
   themeConfig: {
