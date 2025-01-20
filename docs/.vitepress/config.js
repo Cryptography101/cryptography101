@@ -18,7 +18,7 @@ export default {
         "link",
         {
           rel: "icon",
-          href: "/cryptography.png", // Change to .png if you use PNG format
+          href: "images/cryptography.png", // Change to .png if you use PNG format
         },
       ],
     ],
