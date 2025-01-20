@@ -1,4 +1,4 @@
-# MD5: Understanding the Basics of a Popular Hashing Algorithm
+# MD5
 
 MD5 (Message Digest Algorithm 5) is one of the most well-known cryptographic hash functions. While it is no longer considered secure for cryptographic purposes, it remains relevant in certain non-critical applications such as checksums for data integrity.
 
