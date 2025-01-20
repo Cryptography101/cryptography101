@@ -68,6 +68,7 @@ sha256_hash = hashlib.sha256(message.encode()).hexdigest()
 
 print(f"SHA-256 Hash: {sha256_hash}")
 
+```
 ## Comparison: SHA-1 vs. SHA-2 vs. SHA-3
 
 | **Feature**      | **SHA-1**     | **SHA-2**                  | **SHA-3**                  |
