@@ -20,6 +20,7 @@ export default {
         //{ text: "CTF Challenges", link: "/challenges" },
         //{ text: "Tools of Trade", link: "/tools" },
         //{ text: "Hardware Cryptography", link: "/hardware-crypto" },
+        {text:"Basic Stuff",link:"/basic-terminology"},
         {
           text: "History of Cryptography",
           collapsed: true,
