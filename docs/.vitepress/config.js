@@ -13,7 +13,15 @@ export default {
       //{ text: "Programming", link: "/programming" }
       {text:"Books",link:"/books"}
     ],
-    
+    head: [
+      [
+        "link",
+        {
+          rel: "icon",
+          href: "/cryptography.png", // Change to .png if you use PNG format
+        },
+      ],
+    ],
     sidebar: {
       "/": [
         { text: "Introduction", link: "/" },
