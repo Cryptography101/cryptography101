@@ -65,6 +65,7 @@ export default {
             //{ text: "Libraries & Tools", link: "/programming/tools" }
           ]
         },
+        
         {
           text: "Asymmetric Cryptography",
           collapsed: "True",
@@ -79,7 +80,95 @@ export default {
             { text: "Common Attacks", link: "/asymmetric/attacks" },
             { text: "Best Practices", link: "/asymmetric/best-practices" }
           ]
+        },
+        {
+          text: "Hashing",
+          collapsed: true,
+          items: [
+            { text: "Introduction to Hashing", link: "/hashing/intro" },
+            { text: "Hash Functions", link: "/hashing/functions" },
+            { 
+              text: "Common Hash Algorithms",
+              collapsed: true,
+              items: [
+                { text: "MD5", link: "/hashing/algorithms/md5" },
+                { text: "SHA Family", link: "/hashing/algorithms/sha" },
+                { text: "BLAKE2", link: "/hashing/algorithms/blake2" },
+                { text: "BLAKE3", link: "/hashing/algorithms/blake3" },
+                { text: "Keccak", link: "/hashing/algorithms/keccak" },
+                { text: "Whirlpool", link: "/hashing/algorithms/whirlpool" }
+              ]
+            },
+            {
+              text: "Password Hashing",
+              collapsed: true,
+              items: [
+                { text: "Password Hashing Overview", link: "/hashing/password/overview" },
+                { text: "PBKDF2", link: "/hashing/password/pbkdf2" },
+                { text: "bcrypt", link: "/hashing/password/bcrypt" },
+                { text: "scrypt", link: "/hashing/password/scrypt" },
+                { text: "Argon2", link: "/hashing/password/argon2" }
+              ]
+            },
+            {
+              text: "Applications",
+              collapsed: true,
+              items: [
+                { text: "Digital Signatures", link: "/hashing/applications/signatures" },
+                { text: "Data Integrity", link: "/hashing/applications/integrity" },
+                { text: "Blockchain", link: "/hashing/applications/blockchain" },
+                { text: "Message Authentication", link: "/hashing/applications/mac" },
+                { text: "File Checksums", link: "/hashing/applications/checksums" }
+              ]
+            },
+            {
+              text: "Attacks and Security",
+              collapsed: true,
+              items: [
+                { text: "Collision Attacks", link: "/hashing/security/collisions" },
+                { text: "Birthday Attacks", link: "/hashing/security/birthday" },
+                { text: "Rainbow Tables", link: "/hashing/security/rainbow-tables" },
+                { text: "Length Extension", link: "/hashing/security/length-extension" },
+                { text: "Chosen Prefix", link: "/hashing/security/chosen-prefix" }
+              ]
+            },
+            {
+              text: "Implementation",
+              collapsed: true,
+              items: [
+                { text: "Python Examples", link: "/hashing/implementation/python" },
+                { text: "JavaScript Examples", link: "/hashing/implementation/javascript" },
+                { text: "Go Examples", link: "/hashing/implementation/go" },
+                { text: "Rust Examples", link: "/hashing/implementation/rust" },
+                { text: "C/C++ Examples", link: "/hashing/implementation/cpp" }
+              ]
+            },
+            {
+              text: "Best Practices",
+              collapsed: true,
+              items: [
+                { text: "Choosing Hash Functions", link: "/hashing/best-practices/selection" },
+                { text: "Secure Implementation", link: "/hashing/best-practices/implementation" },
+                { text: "Salt and Pepper", link: "/hashing/best-practices/salt-pepper" },
+                { text: "Storage Guidelines", link: "/hashing/best-practices/storage" },
+                { text: "Upgrade Strategies", link: "/hashing/best-practices/upgrading" }
+              ]
+            },
+            {
+              text: "Tools and Libraries",
+              collapsed: true,
+              items: [
+                { text: "Command Line Tools", link: "/hashing/tools/cli" },
+                { text: "Programming Libraries", link: "/hashing/tools/libraries" },
+                { text: "Online Tools", link: "/hashing/tools/online" },
+                { text: "Analysis Tools", link: "/hashing/tools/analysis" }
+              ]
+            },
+            { text: "Practice Problems", link: "/hashing/practice" },
+            { text: "CTF Challenges", link: "/hashing/ctf" }
+          ]
         }
+      
 
 
       ],
