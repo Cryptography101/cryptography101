@@ -1,5 +1,5 @@
 export default {
-  title: "Cryptography101",
+  title: "Cryptography 101",
   description: "A complete guide to cryptography and its role in CTF challenges.",
   
   // SEO and Site Configuration
