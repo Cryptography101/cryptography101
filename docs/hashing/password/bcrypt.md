@@ -1,4 +1,4 @@
-# Bcrypt: A Comprehensive Guide to Password Hashing
+# Bcrypt Hashing
 
 ## Introduction
 
