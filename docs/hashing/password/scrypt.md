@@ -17,7 +17,6 @@ sha256("password123") → 3f2... (instant)
 # Good: Slow KDF (resists attacks)
 scrypt("password123", salt, N=16384, r=8, p=1) → a12... (0.2s)
 ```
-
 # Scrypt: The Memory-Hard Game Changer in Password Hashing
 
 ## Overview
