@@ -39,7 +39,7 @@ export default {
 
   themeConfig: {
     // Site Logo
-    logo: '@/public/cryptography.png',
+    logo: '/cryptography.png',
     
     // Search Configuration
     search: {
