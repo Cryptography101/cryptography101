@@ -1,70 +1,104 @@
-# Welcome to Cryptography101
+# Cryptography101
 
-Hey there! Ready to dive into the world of cryptography? Whether you're gearing up for CTF challenges, building secure systems, or just curious about how encryption works, you're in the right place.
+::: warning Under Active Development
+This guide is being actively developed and maintained. Feel free to contribute by submitting pull requests or opening issues.
+:::
 
-## What's Different About This Guide?
+## Welcome to Cryptography101
 
-Let's be real - most crypto resources either drown you in math or just tell you to "use this library." We're taking a different approach. Here, you'll:
-- Learn the concepts by actually doing stuff
-- See how things work under the hood
-- Get your hands dirty with real code
-- Tackle practical challenges
+Welcome to the comprehensive guide to cryptography, covering everything from historical ciphers to modern cryptographic systems. Whether you're a CTF enthusiast, security researcher, or developer looking to implement secure systems, this guide will help you understand the fundamentals and advanced concepts of cryptography.
 
-## What You'll Learn
+## Why This Guide?
 
-### The Basics
-- A crash course in the math you actually need
-- How modern cryptography really works
-- Common patterns and pitfalls to avoid
+In today's digital age, understanding cryptography isn't just an academic pursuit—it's a crucial skill for:
 
-### The Cool Stuff
-- Building and breaking crypto systems
-- Solving CTF challenges
-- Writing secure code
-- Using crypto tools like a pro
+- 🔐 Security professionals defending systems
+- 💻 Developers implementing secure applications
+- 🏆 CTF players solving cryptographic challenges
+- 🔍 Researchers exploring new cryptographic methods
+- 🎓 Students learning about information security
 
-### The Cutting Edge
-- Post-quantum crypto
-- Zero-knowledge proofs
-- Hardware security
-- And more as the field evolves
+## What's Inside?
 
-## Who Is This For?
+### 📚 Comprehensive Coverage
 
-- CTF players looking to level up their crypto game
-- Developers who want to build secure systems
-- Security folks diving deeper into crypto
-- Anyone curious about how encryption works
+This guide takes you through:
 
-## How to Use This Guide
+- Historical evolution of cryptography
+- Mathematical foundations
+- Modern cryptographic systems
+- Real-world applications and attack scenarios
+- Hands-on programming examples
+- CTF challenge walkthroughs
 
-### New to Crypto?
-Start with the history section - trust us, it helps! Then move on to the math basics. Don't worry, we'll keep it relevant and interesting.
+### 🛠️ Practical Approach
 
-### Some Experience?
-Jump straight to the topics you need. Each section stands on its own, but we'll point you to any prerequisites you might need.
+Each topic includes:
 
-### Advanced User?
-Check out our deep dives into modern crypto and contribute your knowledge. The field is always evolving, and we're learning together.
+- Detailed theoretical explanations
+- Practical code examples in multiple languages
+- Common pitfalls and best practices
+- Real-world use cases and scenarios
+- Interactive exercises and challenges
 
-## Let's Get Started
+## Getting Started
 
-Pick your path:
-- [The Story of Cryptography](/history/intro)
-- [Math You'll Actually Use](/mathematics/intro)
-- [Hands-on Coding](/programming/intro)
-- [Practice Challenges](/mathematics/intro)
+### For Beginners
 
-## Join the Community
+If you're new to cryptography, we recommend following this path:
 
-Learning is better together! Join us on [Discord](https://discord.gg/your-discord-invite-link) or [GitHub](https://github.com/crypt0-wizard/cryptography101.git) to:
-- Share what you learn
-- Get help when stuck
-- Help others level up
-- Stay current with crypto trends
+1. Start with [Basic Terminology](/basic-terminology)
+2. Explore the [History of Cryptography](/history/intro)
+3. Build your [Mathematical Foundation](/mathematics/intro)
+4. Begin with simple [Programming Examples](/programming/intro)
 
-Remember: Crypto is a journey, not a destination. Let's explore it together!
+### For Experienced Users
+
+If you're already familiar with cryptographic concepts:
+
+- Jump directly to [Advanced Topics](/asymmetric/introduction)
+- Explore our [CTF Challenges](/hashing/ctf)
+- Check out [Implementation Best Practices](/hashing/best-practices/implementation)
+- Study [Common Attack Vectors](/asymmetric/attacks)
+
+## Contributing
+
+We believe in the power of community-driven knowledge. You can contribute by:
+
+- 📝 Improving documentation
+- 🐛 Fixing errors or typos
+- ➕ Adding new content
+- 💡 Suggesting improvements
+- 🔧 Sharing tools and resources
+
+Visit our [GitHub repository](https://github.com/crypt0-wizard/cryptography101) to get started.
+
+## Community
+
+Join our community to discuss cryptography, share knowledge, and get help:
+
+- [Discord Community](https://discord.gg/your-discord-invite-link)
+- [GitHub Discussions](https://github.com/crypt0-wizard/cryptography101/discussions)
+- [Contributing Guidelines](https://github.com/crypt0-wizard/cryptography101/blob/main/CONTRIBUTING.md)
+
+## Latest Updates
+
+::: info What's New
+- 🎉 Added new section on Post-Quantum Cryptography
+- 📚 Expanded Elliptic Curve Cryptography content
+- 🔧 Updated programming examples for modern frameworks
+- 🏆 New CTF challenge walkthroughs
+:::
+
+## Support Us
+
+If you find this guide helpful, you can support us by:
+
+- ⭐ Starring our GitHub repository
+- 📢 Sharing with your network
+- 🤝 Contributing to the documentation
+- 🐛 Reporting issues and suggesting improvements
 
 ---
 
-*Stay up to date with the latest in cryptography by following us on [GitHub](https://github.com/crypt0-wizard/cryptography101.git) or joining our [Discord](https://discord.gg/your-discord-invite-link).*
+*Ready to dive in? Start with our [Basic Terminology](/basic-terminology) guide or jump straight to the topic that interests you from the sidebar.*
