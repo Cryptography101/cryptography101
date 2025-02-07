@@ -145,6 +145,24 @@ export default {
               ]
             },
             {
+  text: "Zero-Knowledge Proofs",
+  collapsed: true,
+  items: [
+    { text: "Introduction to ZKP", link: "/zkp/intro" },
+    { text: "Core Concepts", link: "/zkp/concepts" },
+    { text: "Types of ZKP", link: "/zkp/types" },
+    { text: "Modern Systems", link: "/zkp/modern-systems" },
+    { text: "Applications", link: "/zkp/applications" },
+    { text: "Implementation", link: "/zkp/implementation" },
+    { text: "Advanced Topics", link: "/zkp/advanced" },
+    { text: "Security", link: "/zkp/security" },
+    { text: "Examples", link: "/zkp/examples" },
+    { text: "Future Directions", link: "/zkp/future" },
+    { text: "Resources", link: "/zkp/resources" },
+    { text: "Practice", link: "/zkp/practice" }
+  ]
+},
+            {
               text: "Applications",
               collapsed: true,
               items: [
