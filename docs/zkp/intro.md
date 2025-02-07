@@ -122,7 +122,3 @@ Zero-knowledge proofs aren't just a technical concept – they're a philosophica
 
 *"In the world of zero-knowledge proofs, truth becomes a dance of mathematical elegance, where knowing and revealing are beautifully separate."*
 
-## Next Steps
-- [Core Concepts](/zkp/concepts)
-- [Mathematical Foundations](/mathematics/intro)
-- [Implementation Techniques](/zkp/implementation)
